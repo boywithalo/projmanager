@@ -1,15 +1,13 @@
-# Telegram Project Manager Bot
+# ProjManager
 
-Manage your projects seamlessly right from Telegram! This bot helps you track tasks, set deadlines, assign responsibilities, and stay organized.
+Use telegram to manage your porjects. This bot helps you stay organized.
 
 ---
 
 ## 🎯 **Key Features**
-- **Task Management**: Create, edit, and delete tasks with ease.
-- **Team Collaboration**: Assign tasks to team members and keep everyone informed.
-- **Notifications**: Receive updates and reminders about deadlines.
-- **Progress Tracking**: View the status of tasks and overall project progress.
-- **Simple Commands**: User-friendly bot commands for effortless management.
+- **Task Management**: Create, edit, and delete projects with ease.
+- **Skill management**: Assign skills to your projects.
+- **Simple Commands**: Bot commands for effortless management.
 
 ---
 
@@ -17,10 +15,16 @@ Manage your projects seamlessly right from Telegram! This bot helps you track ta
 Follow these steps to start managing your projects:
 
 1. **Add the Bot to Telegram**  
-   Click [here](https://t.me/YourBotLink) to add the bot to your Telegram account.
+   Click [here](https://t.me/BottalkstoanotherBot) to add the bot to your Telegram account.
 
 2. **Register Your Account**  
-   Send `/start` to begin and follow the registration instructions.
+   Send `/start` to begin and follow the instructions.
 
 3. **Create Your First Project**  
-   Use the command:  
+   Use the command:  /new_project
+4. **More help**
+   Use the command: /info
+
+   
+> [!IMPORTANT]
+> The bot only speaks Russian
